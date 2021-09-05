@@ -8,7 +8,7 @@
 	
 ## Setup
 * Copy all files into the same directory
-* Copy the path to the image files into lines 72-77
+* Copy the path of the image files into lines 72-77
 * Run Pacman.java file
 
 ## Demo
